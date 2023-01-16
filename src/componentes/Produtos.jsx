@@ -10,26 +10,26 @@ function Productos() {
       { 
          id: "1",
          nombre: "Escudo Capitan America",
-         imagen: "/assets/img/escudo.png",
+         imagen: "./assets/img/escudo.png",
          url: "https://simple.ripley.cl/figura-de-accion-escudo-falcon-capitan-america-legends-series-mpm00066126514?s=mdco"
       },
 
       {
         id: "4",
         nombre: "Guantelete de Tony Stark",
-        imagen: "/assets/img/guantetony.png",
+        imagen: "./assets/img/guantetony.png",
         url: "https://simple.ripley.cl/guante-electronico-hasbro-marvel-ironman-2000385310044p?color_80=rojo&s=mdco"
        },
         {
           id: "5",
           nombre: "Casco de Ironman",
-          imagen: "/assets/img/helmet.png",
+          imagen: "./assets/img/helmet.png",
           url: "https://simple.ripley.cl/casco-iron-man-avengers-mpm00006358710?s=mdco"
         },
         {
           id: "6",
           nombre: "Funko Loki",
-          imagen: "/assets/img/loki.png",
+          imagen: "./assets/img/loki.png",
           url: "https://simple.ripley.cl/pop-loki-pop-6-mpm00060171410?s=mdco"
         },
       ];

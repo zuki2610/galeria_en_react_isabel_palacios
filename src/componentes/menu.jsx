@@ -10,10 +10,10 @@ return (
     <>
     <Navbar bg="dark" variant="dark">
       <Container>
-        <Navbar.Brand href="#home">Toy Store</Navbar.Brand>
+        <Navbar.Brand href="/galeria_en_react_isabel_palacios/home">Toy Store</Navbar.Brand>
         <Nav className="me-auto">
           <Nav.Link href="/">Home</Nav.Link>
-          <Nav.Link href="/productos">Productos</Nav.Link>
+          <Nav.Link href="/galeria_en_react_isabel_palacios/productos">Productos</Nav.Link>
           <Nav.Link href="#footer">About Us</Nav.Link>
         </Nav>
       </Container>
