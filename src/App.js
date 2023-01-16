@@ -9,7 +9,7 @@ import Home from './Componentes/Home';
 
 function App() {
   return (
-  <BrowserRouter >
+  <BrowserRouter>
   <Menu />
   <main>
     <Routes>

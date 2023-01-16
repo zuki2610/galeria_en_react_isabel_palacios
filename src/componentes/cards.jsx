@@ -12,7 +12,7 @@ const Cards = (props) => {
       <Card.Body>
         <Card.Title>{nombre}</Card.Title>
         <Card.Text> {contenido}</Card.Text>
-        <Button variant="primary" href={url}>Comprar</Button>
+        <Button variant="primary" target="_blank" href={url}>Comprar</Button>
       </Card.Body>
     </Card>
     </>
