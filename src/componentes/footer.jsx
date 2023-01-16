@@ -1,20 +1,18 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Accordion from 'react-bootstrap/Accordion';
 
 function Footer() {
   return (
-    <Accordion id="footer" defaultActiveKey={['0']} alwaysOpen>
-      <Accordion.Item eventKey="0">
-        <Accordion.Header>About Us</Accordion.Header>
-        <Accordion.Body>
+    <div className="bg-dark text-light text-center">
+    <div id="footer">
+        <h2>About Us</h2> 
+        <span>
           Tienda de Juguetes de Marvel, donde encontraras el link ideal para comprar directamente los mejores artículos de colección con temática de Marvel 
-          Comics. 
+          Comics.</span> 
 <br/> 
-Creado con amor por Isabel Palacios 2023
-        </Accordion.Body>
-      </Accordion.Item>
-    </Accordion>
+<h3>Creado con amor por Isabel Palacios 2023</h3>
+</div>
+    </div>
   );
 }
 export default Footer;
