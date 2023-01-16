@@ -37,8 +37,6 @@
   }
 }
 .App {
-  height: 85vh;
-}
-.footer {
-  margin-top: 2vh;
+  height: 100vh;
+  padding-left: 3vw;
 }
