@@ -37,6 +37,8 @@
   }
 }
 .App {
-  height: 100vh;
   padding-left: 3vw;
+}
+.home  {
+  height: 90vh;
 }
