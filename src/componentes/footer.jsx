@@ -3,7 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Footer() {
   return (
-    <div className="bg-dark text-light text-center">
+    <div className="bg-dark text-light text-center pb-2">
     <div id="footer">
         <h2>About Us</h2> 
         <span>

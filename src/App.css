@@ -32,13 +32,22 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
 }
+
 .App {
   padding-left: 3vw;
 }
-.home  {
+
+.home {
   height: 90vh;
+}
+
+.password {
+  height: 100vh;
+  width: 40vw;
+  margin-left: 20vw;
 }

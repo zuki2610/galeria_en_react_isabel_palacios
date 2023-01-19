@@ -16,11 +16,14 @@ return (
         <Nav className="me-auto">
         <LinkContainer to="/galeria_en_react_isabel_palacios/">
           <Nav.Link>Home</Nav.Link>
-        </LinkContainer>
+          </LinkContainer>
         <LinkContainer to="/galeria_en_react_isabel_palacios/productos">
           <Nav.Link>Productos</Nav.Link>
         </LinkContainer>
         <Nav.Link href="#footer">About Us</Nav.Link>
+        <LinkContainer to="/galeria_en_react_isabel_palacios/password">
+          <Nav.Link>Login</Nav.Link>
+        </LinkContainer>
         </Nav>
       </Container>
     </Navbar>
