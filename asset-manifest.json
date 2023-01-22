@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/galeria_en_react_isabel_palacios/static/css/main.f13678d6.css",
-    "main.js": "/galeria_en_react_isabel_palacios/static/js/main.2825d6e2.js",
+    "main.css": "/galeria_en_react_isabel_palacios/static/css/main.d8af7761.css",
+    "main.js": "/galeria_en_react_isabel_palacios/static/js/main.d852788b.js",
     "static/js/787.5f08ae97.chunk.js": "/galeria_en_react_isabel_palacios/static/js/787.5f08ae97.chunk.js",
     "index.html": "/galeria_en_react_isabel_palacios/index.html",
-    "main.f13678d6.css.map": "/galeria_en_react_isabel_palacios/static/css/main.f13678d6.css.map",
-    "main.2825d6e2.js.map": "/galeria_en_react_isabel_palacios/static/js/main.2825d6e2.js.map",
+    "main.d8af7761.css.map": "/galeria_en_react_isabel_palacios/static/css/main.d8af7761.css.map",
+    "main.d852788b.js.map": "/galeria_en_react_isabel_palacios/static/js/main.d852788b.js.map",
     "787.5f08ae97.chunk.js.map": "/galeria_en_react_isabel_palacios/static/js/787.5f08ae97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f13678d6.css",
-    "static/js/main.2825d6e2.js"
+    "static/css/main.d8af7761.css",
+    "static/js/main.d852788b.js"
   ]
 }
