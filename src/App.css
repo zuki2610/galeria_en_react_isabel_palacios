@@ -32,11 +32,15 @@
 }
 
 .home {
-  height: 90vh;
+  height: 100vh;
 }
 
 .password {
   height: 100vh;
   width: 40vw;
   margin-left: 20vw;
+}
+
+.marvel {
+  padding-bottom: 12vh;
 }
