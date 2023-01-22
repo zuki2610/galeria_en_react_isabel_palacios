@@ -1,7 +1,7 @@
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function Footer() {
+const Footer = () => {
   return (
     <div className="bg-dark text-light text-center pb-2">
     <div id="footer">
